@@ -59,6 +59,9 @@ h2 {
 ul {
   padding-left: 20px;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 /* Menu Inferior Fixo */
 nav.menu {
